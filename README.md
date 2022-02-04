@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MattiBSH
 - 👀 I’m interested in App dev
-- 🌱 I’m currently learning Flutter
-
-- 📫 How to reach me, don't
+- 🌱 I’m currently learning Flutter and python
 
 <!---
 MattiBSH/MattiBSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
