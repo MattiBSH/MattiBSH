@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattiBSH
-- 👀 I’m interested in App dev
+- 👀 I’m interested in Microservice development
 - 🌱 I’m currently learning Kafka and angular
 
 <!---
