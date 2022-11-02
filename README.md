@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattiBSH
 - 👀 I’m interested in App dev
-- 🌱 I’m currently learning Kafka
+- 🌱 I’m currently learning Kafka and angular
 
 <!---
 MattiBSH/MattiBSH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
